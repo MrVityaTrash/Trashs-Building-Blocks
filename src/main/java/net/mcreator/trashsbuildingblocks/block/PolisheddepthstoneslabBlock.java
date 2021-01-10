@@ -23,7 +23,7 @@ public class PolisheddepthstoneslabBlock extends TrashsBuildingBlocksModElements
 	@ObjectHolder("trashs_building_blocks:polisheddepthstoneslab")
 	public static final Block block = null;
 	public PolisheddepthstoneslabBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 6);
+		super(instance, 7);
 	}
 
 	@Override

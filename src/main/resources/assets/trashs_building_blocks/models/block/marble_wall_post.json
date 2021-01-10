@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "trashs_building_blocks:blocks/marble",
+    "particle": "trashs_building_blocks:blocks/marble"
+  }
+}

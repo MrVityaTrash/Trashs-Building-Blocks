@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "trashs_building_blocks:blocks/komatiite",
+    "top": "trashs_building_blocks:blocks/komatiite",
+    "side": "trashs_building_blocks:blocks/komatiite"
+  }
+}

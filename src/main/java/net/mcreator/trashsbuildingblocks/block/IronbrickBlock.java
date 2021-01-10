@@ -23,7 +23,7 @@ public class IronbrickBlock extends TrashsBuildingBlocksModElements.ModElement {
 	@ObjectHolder("trashs_building_blocks:ironbrick")
 	public static final Block block = null;
 	public IronbrickBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 83);
+		super(instance, 100);
 	}
 
 	@Override

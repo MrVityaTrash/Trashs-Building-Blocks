@@ -1,0 +1,9 @@
+{
+  "group": "trashs_building_blocks",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "trashs_building_blocks:dioritebrick"
+  },
+  "result": "trashs_building_blocks:dioritebrickslab"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "trashs_building_blocks:blocks/polishedkomatiite",
+    "top": "trashs_building_blocks:blocks/polishedkomatiite",
+    "side": "trashs_building_blocks:blocks/polishedkomatiite"
+  }
+}

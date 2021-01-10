@@ -25,7 +25,7 @@ public class ScalebrickslabBlock extends TrashsBuildingBlocksModElements.ModElem
 	@ObjectHolder("trashs_building_blocks:scalebrickslab")
 	public static final Block block = null;
 	public ScalebrickslabBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 78);
+		super(instance, 95);
 	}
 
 	@Override

@@ -37,7 +37,7 @@ public class SlateBlock extends TrashsBuildingBlocksModElements.ModElement {
 	@ObjectHolder("trashs_building_blocks:slate")
 	public static final Block block = null;
 	public SlateBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 23);
+		super(instance, 25);
 	}
 
 	@Override

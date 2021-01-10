@@ -23,7 +23,7 @@ public class DepthstonebrickBlock extends TrashsBuildingBlocksModElements.ModEle
 	@ObjectHolder("trashs_building_blocks:depthstonebrick")
 	public static final Block block = null;
 	public DepthstonebrickBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 8);
+		super(instance, 9);
 	}
 
 	@Override

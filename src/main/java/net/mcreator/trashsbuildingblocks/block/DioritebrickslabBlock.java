@@ -25,7 +25,7 @@ public class DioritebrickslabBlock extends TrashsBuildingBlocksModElements.ModEl
 	@ObjectHolder("trashs_building_blocks:dioritebrickslab")
 	public static final Block block = null;
 	public DioritebrickslabBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 62);
+		super(instance, 79);
 	}
 
 	@Override

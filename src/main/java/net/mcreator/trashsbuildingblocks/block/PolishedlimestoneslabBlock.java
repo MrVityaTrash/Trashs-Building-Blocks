@@ -25,7 +25,7 @@ public class PolishedlimestoneslabBlock extends TrashsBuildingBlocksModElements.
 	@ObjectHolder("trashs_building_blocks:polishedlimestoneslab")
 	public static final Block block = null;
 	public PolishedlimestoneslabBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 17);
+		super(instance, 19);
 	}
 
 	@Override

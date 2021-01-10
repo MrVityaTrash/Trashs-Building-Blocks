@@ -24,7 +24,7 @@ public class PolishedlimestonestairsBlock extends TrashsBuildingBlocksModElement
 	@ObjectHolder("trashs_building_blocks:polishedlimestonestairs")
 	public static final Block block = null;
 	public PolishedlimestonestairsBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 16);
+		super(instance, 18);
 	}
 
 	@Override

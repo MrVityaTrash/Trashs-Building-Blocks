@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "trashs_building_blocks:blocks/polishedkomatiite",
+    "particle": "trashs_building_blocks:blocks/polishedkomatiite"
+  }
+}

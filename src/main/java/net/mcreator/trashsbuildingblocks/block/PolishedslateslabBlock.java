@@ -25,7 +25,7 @@ public class PolishedslateslabBlock extends TrashsBuildingBlocksModElements.ModE
 	@ObjectHolder("trashs_building_blocks:polishedslateslab")
 	public static final Block block = null;
 	public PolishedslateslabBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 28);
+		super(instance, 31);
 	}
 
 	@Override

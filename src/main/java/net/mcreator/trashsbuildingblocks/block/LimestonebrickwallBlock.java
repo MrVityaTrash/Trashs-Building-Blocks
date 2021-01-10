@@ -36,7 +36,7 @@ public class LimestonebrickwallBlock extends TrashsBuildingBlocksModElements.Mod
 	@ObjectHolder("trashs_building_blocks:limestonebrickwall")
 	public static final Block block = null;
 	public LimestonebrickwallBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 22);
+		super(instance, 24);
 	}
 
 	@Override

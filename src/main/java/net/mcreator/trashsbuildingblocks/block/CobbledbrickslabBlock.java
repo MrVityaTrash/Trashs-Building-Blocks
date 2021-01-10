@@ -25,7 +25,7 @@ public class CobbledbrickslabBlock extends TrashsBuildingBlocksModElements.ModEl
 	@ObjectHolder("trashs_building_blocks:cobbledbrickslab")
 	public static final Block block = null;
 	public CobbledbrickslabBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 74);
+		super(instance, 91);
 	}
 
 	@Override

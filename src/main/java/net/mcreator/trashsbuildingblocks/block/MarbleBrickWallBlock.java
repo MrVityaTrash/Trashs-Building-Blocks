@@ -36,7 +36,7 @@ public class MarbleBrickWallBlock extends TrashsBuildingBlocksModElements.ModEle
 	@ObjectHolder("trashs_building_blocks:marble_brick_wall")
 	public static final Block block = null;
 	public MarbleBrickWallBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 44);
+		super(instance, 48);
 	}
 
 	@Override

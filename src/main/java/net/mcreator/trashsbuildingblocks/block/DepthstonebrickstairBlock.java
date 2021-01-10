@@ -24,7 +24,7 @@ public class DepthstonebrickstairBlock extends TrashsBuildingBlocksModElements.M
 	@ObjectHolder("trashs_building_blocks:depthstonebrickstair")
 	public static final Block block = null;
 	public DepthstonebrickstairBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 9);
+		super(instance, 10);
 	}
 
 	@Override

@@ -24,7 +24,7 @@ public class GranitebrickstairsBlock extends TrashsBuildingBlocksModElements.Mod
 	@ObjectHolder("trashs_building_blocks:granitebrickstairs")
 	public static final Block block = null;
 	public GranitebrickstairsBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 65);
+		super(instance, 82);
 	}
 
 	@Override

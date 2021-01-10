@@ -25,7 +25,7 @@ public class TavertineslabBlock extends TrashsBuildingBlocksModElements.ModEleme
 	@ObjectHolder("trashs_building_blocks:tavertineslab")
 	public static final Block block = null;
 	public TavertineslabBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 47);
+		super(instance, 63);
 	}
 
 	@Override

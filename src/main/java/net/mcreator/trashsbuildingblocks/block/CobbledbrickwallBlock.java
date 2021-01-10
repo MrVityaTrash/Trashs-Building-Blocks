@@ -36,7 +36,7 @@ public class CobbledbrickwallBlock extends TrashsBuildingBlocksModElements.ModEl
 	@ObjectHolder("trashs_building_blocks:cobbledbrickwall")
 	public static final Block block = null;
 	public CobbledbrickwallBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 75);
+		super(instance, 92);
 	}
 
 	@Override

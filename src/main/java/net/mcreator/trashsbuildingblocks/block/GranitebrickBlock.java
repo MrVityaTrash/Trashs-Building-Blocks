@@ -23,7 +23,7 @@ public class GranitebrickBlock extends TrashsBuildingBlocksModElements.ModElemen
 	@ObjectHolder("trashs_building_blocks:granitebrick")
 	public static final Block block = null;
 	public GranitebrickBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 64);
+		super(instance, 81);
 	}
 
 	@Override

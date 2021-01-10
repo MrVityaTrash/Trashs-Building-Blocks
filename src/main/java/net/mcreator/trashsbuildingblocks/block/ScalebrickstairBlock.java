@@ -24,7 +24,7 @@ public class ScalebrickstairBlock extends TrashsBuildingBlocksModElements.ModEle
 	@ObjectHolder("trashs_building_blocks:scalebrickstair")
 	public static final Block block = null;
 	public ScalebrickstairBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 77);
+		super(instance, 94);
 	}
 
 	@Override

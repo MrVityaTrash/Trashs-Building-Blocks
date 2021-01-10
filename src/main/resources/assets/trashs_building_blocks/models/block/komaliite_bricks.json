@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "trashs_building_blocks:blocks/komatiitebricks",
+    "up": "trashs_building_blocks:blocks/komatiitebricks",
+    "north": "trashs_building_blocks:blocks/komatiitebricks",
+    "east": "trashs_building_blocks:blocks/komatiitebricks",
+    "south": "trashs_building_blocks:blocks/komatiitebricks",
+    "west": "trashs_building_blocks:blocks/komatiitebricks",
+    "particle": "trashs_building_blocks:blocks/komatiitebricks"
+  }
+}

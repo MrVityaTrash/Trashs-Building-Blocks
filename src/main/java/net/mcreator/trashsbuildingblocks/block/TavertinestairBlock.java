@@ -24,7 +24,7 @@ public class TavertinestairBlock extends TrashsBuildingBlocksModElements.ModElem
 	@ObjectHolder("trashs_building_blocks:tavertinestair")
 	public static final Block block = null;
 	public TavertinestairBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 46);
+		super(instance, 62);
 	}
 
 	@Override

@@ -23,7 +23,7 @@ public class ObsidianbrickBlock extends TrashsBuildingBlocksModElements.ModEleme
 	@ObjectHolder("trashs_building_blocks:obsidianbrick")
 	public static final Block block = null;
 	public ObsidianbrickBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 80);
+		super(instance, 97);
 	}
 
 	@Override

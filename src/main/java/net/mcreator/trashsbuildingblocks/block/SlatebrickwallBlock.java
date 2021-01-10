@@ -36,7 +36,7 @@ public class SlatebrickwallBlock extends TrashsBuildingBlocksModElements.ModElem
 	@ObjectHolder("trashs_building_blocks:slatebrickwall")
 	public static final Block block = null;
 	public SlatebrickwallBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 33);
+		super(instance, 36);
 	}
 
 	@Override

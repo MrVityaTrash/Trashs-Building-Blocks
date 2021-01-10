@@ -36,7 +36,7 @@ public class ScalebrickwallBlock extends TrashsBuildingBlocksModElements.ModElem
 	@ObjectHolder("trashs_building_blocks:scalebrickwall")
 	public static final Block block = null;
 	public ScalebrickwallBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 79);
+		super(instance, 96);
 	}
 
 	@Override

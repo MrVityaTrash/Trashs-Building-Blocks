@@ -23,7 +23,7 @@ public class LimestonebrickBlock extends TrashsBuildingBlocksModElements.ModElem
 	@ObjectHolder("trashs_building_blocks:limestonebrick")
 	public static final Block block = null;
 	public LimestonebrickBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 19);
+		super(instance, 21);
 	}
 
 	@Override

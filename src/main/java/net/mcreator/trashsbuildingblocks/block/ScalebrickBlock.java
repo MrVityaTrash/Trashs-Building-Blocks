@@ -23,7 +23,7 @@ public class ScalebrickBlock extends TrashsBuildingBlocksModElements.ModElement 
 	@ObjectHolder("trashs_building_blocks:scalebrick")
 	public static final Block block = null;
 	public ScalebrickBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 76);
+		super(instance, 93);
 	}
 
 	@Override

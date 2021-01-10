@@ -24,7 +24,7 @@ public class CobblebrickstairBlock extends TrashsBuildingBlocksModElements.ModEl
 	@ObjectHolder("trashs_building_blocks:cobblebrickstair")
 	public static final Block block = null;
 	public CobblebrickstairBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 73);
+		super(instance, 90);
 	}
 
 	@Override

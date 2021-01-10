@@ -23,7 +23,7 @@ public class PolishedtavertineslabBlock extends TrashsBuildingBlocksModElements.
 	@ObjectHolder("trashs_building_blocks:polishedtavertineslab")
 	public static final Block block = null;
 	public PolishedtavertineslabBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 50);
+		super(instance, 67);
 	}
 
 	@Override

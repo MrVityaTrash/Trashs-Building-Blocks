@@ -23,7 +23,7 @@ public class GoldbrickBlock extends TrashsBuildingBlocksModElements.ModElement {
 	@ObjectHolder("trashs_building_blocks:goldbrick")
 	public static final Block block = null;
 	public GoldbrickBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 82);
+		super(instance, 99);
 	}
 
 	@Override

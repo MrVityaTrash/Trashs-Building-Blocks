@@ -25,7 +25,7 @@ public class GreystonebrickslabBlock extends TrashsBuildingBlocksModElements.Mod
 	@ObjectHolder("trashs_building_blocks:greystonebrickslab")
 	public static final Block block = null;
 	public GreystonebrickslabBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 70);
+		super(instance, 87);
 	}
 
 	@Override

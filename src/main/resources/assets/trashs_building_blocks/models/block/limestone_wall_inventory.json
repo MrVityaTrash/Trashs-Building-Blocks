@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "trashs_building_blocks:blocks/limestone",
+    "particle": "trashs_building_blocks:blocks/limestone"
+  }
+}

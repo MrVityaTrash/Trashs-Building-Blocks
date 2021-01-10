@@ -36,7 +36,7 @@ public class AndesitebrickwallBlock extends TrashsBuildingBlocksModElements.ModE
 	@ObjectHolder("trashs_building_blocks:andesitebrickwall")
 	public static final Block block = null;
 	public AndesitebrickwallBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 59);
+		super(instance, 76);
 	}
 
 	@Override

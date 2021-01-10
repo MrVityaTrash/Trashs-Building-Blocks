@@ -1,0 +1,9 @@
+{
+  "group": "trashs_building_blocks",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:stone_bricks"
+  },
+  "result": "trashs_building_blocks:grey_stone_brick"
+}
