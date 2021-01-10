@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "trashs_building_blocks:block/limestonebrickslab"
+    },
+    "type=top": {
+      "model": "trashs_building_blocks:block/limestonebrickslab_top"
+    },
+    "type=double": {
+      "model": "trashs_building_blocks:block/limestonebrickslab_full"
+    }
+  }
+}

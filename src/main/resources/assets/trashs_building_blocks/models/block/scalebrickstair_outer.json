@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "trashs_building_blocks:blocks/scaledbrick",
+    "top": "trashs_building_blocks:blocks/scaledbrick",
+    "side": "trashs_building_blocks:blocks/scaledbrick"
+  }
+}

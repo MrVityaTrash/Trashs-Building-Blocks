@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "trashs_building_blocks:blocks/andestitebricks",
+    "top": "trashs_building_blocks:blocks/andestitebricks",
+    "side": "trashs_building_blocks:blocks/andestitebricks"
+  }
+}

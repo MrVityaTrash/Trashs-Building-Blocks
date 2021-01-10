@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "trashs_building_blocks:blocks/polishedlimestone2",
+    "particle": "trashs_building_blocks:blocks/polishedlimestone2"
+  }
+}

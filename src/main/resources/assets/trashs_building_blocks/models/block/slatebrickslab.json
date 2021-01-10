@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "trashs_building_blocks:blocks/slatebrick",
+    "top": "trashs_building_blocks:blocks/slatebrick",
+    "side": "trashs_building_blocks:blocks/slatebrick"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "up": "true"
+      },
+      "apply": {
+        "model": "trashs_building_blocks:block/slatebrickwall_post"
+      }
+    },
+    {
+      "when": {
+        "north": "true"
+      },
+      "apply": {
+        "model": "trashs_building_blocks:block/slatebrickwall",
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "south": "true"
+      },
+      "apply": {
+        "model": "trashs_building_blocks:block/slatebrickwall",
+        "y": 180,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "west": "true"
+      },
+      "apply": {
+        "model": "trashs_building_blocks:block/slatebrickwall",
+        "y": 270,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "east": "true"
+      },
+      "apply": {
+        "model": "trashs_building_blocks:block/slatebrickwall",
+        "y": 90,
+        "uvlock": true
+      }
+    }
+  ]
+}

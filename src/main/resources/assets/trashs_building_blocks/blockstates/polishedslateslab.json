@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "trashs_building_blocks:block/polishedslateslab"
+    },
+    "type=top": {
+      "model": "trashs_building_blocks:block/polishedslateslab_top"
+    },
+    "type=double": {
+      "model": "trashs_building_blocks:block/polishedslateslab_full"
+    }
+  }
+}

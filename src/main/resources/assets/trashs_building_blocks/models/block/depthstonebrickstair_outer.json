@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "trashs_building_blocks:blocks/dimmension_stone_bricks",
+    "top": "trashs_building_blocks:blocks/dimmension_stone_bricks",
+    "side": "trashs_building_blocks:blocks/dimmension_stone_bricks"
+  }
+}

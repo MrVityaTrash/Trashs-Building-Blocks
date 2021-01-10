@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "trashs_building_blocks:blocks/limestone",
+    "up": "trashs_building_blocks:blocks/limestone",
+    "north": "trashs_building_blocks:blocks/limestone",
+    "east": "trashs_building_blocks:blocks/limestone",
+    "south": "trashs_building_blocks:blocks/limestone",
+    "west": "trashs_building_blocks:blocks/limestone",
+    "particle": "trashs_building_blocks:blocks/limestone"
+  }
+}

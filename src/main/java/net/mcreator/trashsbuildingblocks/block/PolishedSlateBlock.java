@@ -23,7 +23,7 @@ public class PolishedSlateBlock extends TrashsBuildingBlocksModElements.ModEleme
 	@ObjectHolder("trashs_building_blocks:polished_slate")
 	public static final Block block = null;
 	public PolishedSlateBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 7);
+		super(instance, 26);
 	}
 
 	@Override

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "trashs_building_blocks:blocks/marblebricks",
+    "up": "trashs_building_blocks:blocks/marblebricks",
+    "north": "trashs_building_blocks:blocks/marblebricks",
+    "east": "trashs_building_blocks:blocks/marblebricks",
+    "south": "trashs_building_blocks:blocks/marblebricks",
+    "west": "trashs_building_blocks:blocks/marblebricks",
+    "particle": "trashs_building_blocks:blocks/marblebricks"
+  }
+}

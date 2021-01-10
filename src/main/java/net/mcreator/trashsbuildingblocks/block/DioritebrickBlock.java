@@ -23,7 +23,7 @@ public class DioritebrickBlock extends TrashsBuildingBlocksModElements.ModElemen
 	@ObjectHolder("trashs_building_blocks:dioritebrick")
 	public static final Block block = null;
 	public DioritebrickBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 14);
+		super(instance, 60);
 	}
 
 	@Override

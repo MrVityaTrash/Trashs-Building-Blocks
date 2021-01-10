@@ -13,7 +13,7 @@ import net.mcreator.trashsbuildingblocks.TrashsBuildingBlocksModElements;
 @TrashsBuildingBlocksModElements.ModElement.Tag
 public class TrashblocksItemGroup extends TrashsBuildingBlocksModElements.ModElement {
 	public TrashblocksItemGroup(TrashsBuildingBlocksModElements instance) {
-		super(instance, 23);
+		super(instance, 84);
 	}
 
 	@Override

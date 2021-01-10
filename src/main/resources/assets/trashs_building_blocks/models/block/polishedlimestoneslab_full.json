@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "trashs_building_blocks:blocks/polishedlimestone2",
+    "top": "trashs_building_blocks:blocks/polishedlimestone2",
+    "side": "trashs_building_blocks:blocks/polishedlimestone2"
+  }
+}

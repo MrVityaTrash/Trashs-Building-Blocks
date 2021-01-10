@@ -4,7 +4,7 @@
     {
       "name": "GreyStoneBrick",
       "type": "block",
-      "sortid": 16,
+      "sortid": 68,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -13,7 +13,7 @@
     {
       "name": "Trashblocks",
       "type": "tab",
-      "sortid": 23,
+      "sortid": 84,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -22,7 +22,7 @@
     {
       "name": "Andesitebrick",
       "type": "block",
-      "sortid": 13,
+      "sortid": 56,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -31,7 +31,7 @@
     {
       "name": "Dioritebrick",
       "type": "block",
-      "sortid": 14,
+      "sortid": 60,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -40,7 +40,7 @@
     {
       "name": "Granitebrick",
       "type": "block",
-      "sortid": 15,
+      "sortid": 64,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -49,7 +49,7 @@
     {
       "name": "Scalebrick",
       "type": "block",
-      "sortid": 18,
+      "sortid": 76,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -58,7 +58,7 @@
     {
       "name": "Cobbledbrick",
       "type": "block",
-      "sortid": 17,
+      "sortid": 72,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -67,7 +67,7 @@
     {
       "name": "FrozenBrick",
       "type": "block",
-      "sortid": 20,
+      "sortid": 81,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -76,7 +76,7 @@
     {
       "name": "Goldbrick",
       "type": "block",
-      "sortid": 21,
+      "sortid": 82,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -85,7 +85,7 @@
     {
       "name": "Ironbrick",
       "type": "block",
-      "sortid": 22,
+      "sortid": 83,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -103,7 +103,7 @@
     {
       "name": "Polisheddepthstone",
       "type": "block",
-      "sortid": 5,
+      "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -112,7 +112,7 @@
     {
       "name": "Depthstonebrick",
       "type": "block",
-      "sortid": 9,
+      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -121,7 +121,7 @@
     {
       "name": "Obsidianbrick",
       "type": "block",
-      "sortid": 19,
+      "sortid": 80,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -130,7 +130,7 @@
     {
       "name": "Tavertine",
       "type": "block",
-      "sortid": 4,
+      "sortid": 45,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -139,7 +139,7 @@
     {
       "name": "Tavertinebricks",
       "type": "block",
-      "sortid": 12,
+      "sortid": 52,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -148,7 +148,7 @@
     {
       "name": "PolishedTavertine",
       "type": "block",
-      "sortid": 8,
+      "sortid": 48,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -157,7 +157,7 @@
     {
       "name": "Limestone",
       "type": "block",
-      "sortid": 2,
+      "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -166,7 +166,7 @@
     {
       "name": "Polishedlimestone",
       "type": "block",
-      "sortid": 6,
+      "sortid": 15,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -175,7 +175,7 @@
     {
       "name": "Limestonebrick",
       "type": "block",
-      "sortid": 10,
+      "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -184,7 +184,7 @@
     {
       "name": "Slate",
       "type": "block",
-      "sortid": 3,
+      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -193,7 +193,7 @@
     {
       "name": "Slatebricks",
       "type": "block",
-      "sortid": 11,
+      "sortid": 30,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -202,11 +202,560 @@
     {
       "name": "PolishedSlate",
       "type": "block",
-      "sortid": 7,
+      "sortid": 26,
       "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "polished_slate"
+    },
+    {
+      "name": "Greystonebrickstair",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "greystonebrickstair"
+    },
+    {
+      "name": "Greystonebrickwall",
+      "type": "block",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "greystonebrickwall"
+    },
+    {
+      "name": "Greystonebrickslab",
+      "type": "block",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "greystonebrickslab"
+    },
+    {
+      "name": "Andesitebrickslab",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "andesitebrickslab"
+    },
+    {
+      "name": "Andesitebrickstairs",
+      "type": "block",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "andesitebrickstairs"
+    },
+    {
+      "name": "Andesitebrickwall",
+      "type": "block",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "andesitebrickwall"
+    },
+    {
+      "name": "Polishedslateslab",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polishedslateslab"
+    },
+    {
+      "name": "Polishedslatestair",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polishedslatestair"
+    },
+    {
+      "name": "Polishedslatewall",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polishedslatewall"
+    },
+    {
+      "name": "Slatebrickslab",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slatebrickslab"
+    },
+    {
+      "name": "Slatebrickstair",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slatebrickstair"
+    },
+    {
+      "name": "Slatebrickwall",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slatebrickwall"
+    },
+    {
+      "name": "Slatestair",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slatestair"
+    },
+    {
+      "name": "Slateslab",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slateslab"
+    },
+    {
+      "name": "Limestonebrickstair",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "limestonebrickstair"
+    },
+    {
+      "name": "Limestonebrickslab",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "limestonebrickslab"
+    },
+    {
+      "name": "Limestonebrickwall",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "limestonebrickwall"
+    },
+    {
+      "name": "Limestonestair",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "limestonestair"
+    },
+    {
+      "name": "Limestoneslab",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "limestoneslab"
+    },
+    {
+      "name": "Polishedtavertinewall",
+      "type": "block",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polishedtavertinewall"
+    },
+    {
+      "name": "Polishedtavertineslab",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polishedtavertineslab"
+    },
+    {
+      "name": "Tavertinebrickstair",
+      "type": "block",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tavertinebrickstair"
+    },
+    {
+      "name": "Tavertinebrickwall",
+      "type": "block",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tavertinebrickwall"
+    },
+    {
+      "name": "Tavertinebrickslab",
+      "type": "block",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tavertinebrickslab"
+    },
+    {
+      "name": "Polishedtavertinestair",
+      "type": "block",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polishedtavertinestair"
+    },
+    {
+      "name": "Tavertinestair",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tavertinestair"
+    },
+    {
+      "name": "Tavertineslab",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tavertineslab"
+    },
+    {
+      "name": "Depthstonebrickslab",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "depthstonebrickslab"
+    },
+    {
+      "name": "Depthstonebrickstair",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "depthstonebrickstair"
+    },
+    {
+      "name": "Depthstonebrickwall",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "depthstonebrickwall"
+    },
+    {
+      "name": "Polisheddepthstonestair",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polisheddepthstonestair"
+    },
+    {
+      "name": "Polisheddepthstoneslab",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polisheddepthstoneslab"
+    },
+    {
+      "name": "Polisheddepthstonewall",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polisheddepthstonewall"
+    },
+    {
+      "name": "Depthstonestair",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "depthstonestair"
+    },
+    {
+      "name": "Depthstoneslab",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "depthstoneslab"
+    },
+    {
+      "name": "Cobbledbrickslab",
+      "type": "block",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobbledbrickslab"
+    },
+    {
+      "name": "Cobblebrickstair",
+      "type": "block",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobblebrickstair"
+    },
+    {
+      "name": "Cobbledbrickwall",
+      "type": "block",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobbledbrickwall"
+    },
+    {
+      "name": "Scalebrickslab",
+      "type": "block",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "scalebrickslab"
+    },
+    {
+      "name": "Scalebrickstair",
+      "type": "block",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "scalebrickstair"
+    },
+    {
+      "name": "Scalebrickwall",
+      "type": "block",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "scalebrickwall"
+    },
+    {
+      "name": "Dioritebrickslab",
+      "type": "block",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dioritebrickslab"
+    },
+    {
+      "name": "Dioritebrickstair",
+      "type": "block",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dioritebrickstair"
+    },
+    {
+      "name": "Dioritebrickwall",
+      "type": "block",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dioritebrickwall"
+    },
+    {
+      "name": "Granitebrickstairs",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "granitebrickstairs"
+    },
+    {
+      "name": "Granitebrickslab",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "granitebrickslab"
+    },
+    {
+      "name": "Granitebrickwall",
+      "type": "block",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "granitebrickwall"
+    },
+    {
+      "name": "Polishedlimestonewall",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polishedlimestonewall"
+    },
+    {
+      "name": "Polishedlimestoneslab",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polishedlimestoneslab"
+    },
+    {
+      "name": "Polishedlimestonestairs",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polishedlimestonestairs"
+    },
+    {
+      "name": "MarbleBricks",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "marble_bricks"
+    },
+    {
+      "name": "MarbleBrickStairs",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "marble_brick_stairs"
+    },
+    {
+      "name": "MarbleBrickSlab",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "marble_brick_slab"
+    },
+    {
+      "name": "MarbleBrickWall",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "marble_brick_wall"
+    },
+    {
+      "name": "Marble",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "marble"
+    },
+    {
+      "name": "MarbleStairs",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "marble_stairs"
+    },
+    {
+      "name": "MarbleSlab",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "marble_slab"
+    },
+    {
+      "name": "PolishedMarble",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_marble"
+    },
+    {
+      "name": "PolishedMarbleStairs",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_marble_stairs"
+    },
+    {
+      "name": "PolishedMarbleSlab",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_marble_slab"
+    },
+    {
+      "name": "PolishedMarbleWall",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_marble_wall"
     }
   ],
   "variable_elements": [],
@@ -214,28 +763,89 @@
   "language_map": {
     "en_us": {
       "block.trashs_building_blocks.scalebrick": "Scaled Stone Bricks",
-      "block.trashs_building_blocks.granitebrick": "Granitebrick",
-      "block.trashs_building_blocks.tavertinebricks": "Tavertine Bricks",
-      "block.trashs_building_blocks.goldbrick": "Golden Bricks",
+      "block.trashs_building_blocks.polishedslateslab": "Polished Slate Slab",
+      "block.trashs_building_blocks.scalebrickstair": "Scale Brick Stairs",
       "block.trashs_building_blocks.limestonebrick": "Limestone Brick",
-      "block.trashs_building_blocks.polished_slate": "Polished Slate",
-      "block.trashs_building_blocks.depthstone": "Depthstone",
-      "block.trashs_building_blocks.tavertine": "Tavertine",
-      "block.trashs_building_blocks.obsidianbrick": "Obsidian Bricks",
-      "block.trashs_building_blocks.slatebricks": "Slate Bricks",
+      "block.trashs_building_blocks.dioritebrickwall": "Diorite Brick Wall",
+      "block.trashs_building_blocks.polished_marble_wall": "Polished Marble Wall",
+      "block.trashs_building_blocks.limestoneslab": "Limestone Slab",
       "block.trashs_building_blocks.ironbrick": "Iron Bricks",
-      "block.trashs_building_blocks.cobbledbrick": "Cobbled Bricks",
-      "block.trashs_building_blocks.polished_tavertine": "Polished Tavertine",
+      "block.trashs_building_blocks.tavertinestair": "Tavertine Stairs",
       "block.trashs_building_blocks.limestone": "Limestone",
+      "block.trashs_building_blocks.slatestair": "Slate Stairs",
+      "block.trashs_building_blocks.polished_marble": "Polished Marble",
+      "block.trashs_building_blocks.polishedtavertinestair": "Polished Tavertine Stairs",
+      "block.trashs_building_blocks.dioritebrickslab": "Diorite Brick Slab",
+      "block.trashs_building_blocks.polished_marble_slab": "Polished Marble Slab",
+      "block.trashs_building_blocks.polishedslatewall": "Polished Slate Wall",
+      "block.trashs_building_blocks.depthstonestair": "Depthstone Stairs",
+      "block.trashs_building_blocks.scalebrickslab": "Scale Brick Slab",
+      "block.trashs_building_blocks.granitebrickwall": "Granite Brick Wall",
+      "block.trashs_building_blocks.polishedlimestone": "Polished Limestone",
+      "block.trashs_building_blocks.depthstonebrickslab": "Depthstone Brick Slab",
+      "block.trashs_building_blocks.limestonestair": "Limestone Stairs",
+      "block.trashs_building_blocks.tavertinebrickstair": "Tavertine Brick Stairs",
+      "block.trashs_building_blocks.cobbledbrickslab": "Cobbled Brick Slab",
+      "block.trashs_building_blocks.marble_slab": "Marble Slab",
+      "block.trashs_building_blocks.andesitebrickstairs": "Andesite Brick Stairs",
+      "block.trashs_building_blocks.marble_brick_slab": "Marble Brick Slab",
+      "block.trashs_building_blocks.polished_slate": "Polished Slate",
+      "block.trashs_building_blocks.slatebrickslab": "Slate Brick Slab",
+      "block.trashs_building_blocks.tavertinebrickwall": "Tavertine Brick Wall",
+      "block.trashs_building_blocks.marble_bricks": "Marble Bricks",
+      "block.trashs_building_blocks.cobbledbrick": "Cobbled Bricks",
+      "block.trashs_building_blocks.polishedlimestonewall": "Polished Limestone Wall",
+      "block.trashs_building_blocks.polished_tavertine": "Polished Tavertine",
       "block.trashs_building_blocks.grey_stone_brick": "Grey Stone Bricks",
       "block.trashs_building_blocks.polisheddepthstone": "Polished Depthstone",
       "block.trashs_building_blocks.slate": "Slate",
+      "block.trashs_building_blocks.polisheddepthstonestair": "Polished Depthstone Stairs",
+      "block.trashs_building_blocks.polishedlimestonestairs": "Polished Limestone Stairs",
+      "block.trashs_building_blocks.slatebrickwall": "Slate Brick Wall",
+      "block.trashs_building_blocks.limestonebrickstair": "Limestone Brick Stairs",
+      "block.trashs_building_blocks.depthstoneslab": "Depthstone Slab",
+      "block.trashs_building_blocks.tavertinebricks": "Tavertine Bricks",
+      "block.trashs_building_blocks.polishedtavertineslab": "Polished Tavertine Slab",
+      "block.trashs_building_blocks.greystonebrickstair": "Greystone Brick Stairs",
+      "block.trashs_building_blocks.tavertine": "Tavertine",
+      "block.trashs_building_blocks.marble_brick_stairs": "Marble Brick Stairs",
+      "block.trashs_building_blocks.andesitebrickslab": "Andesite Brick Slab",
+      "block.trashs_building_blocks.slatebrickstair": "Slate Brick Stairs",
+      "block.trashs_building_blocks.dioritebrickstair": "Diorite Brick Stairs",
+      "block.trashs_building_blocks.limestonebrickslab": "Limestone Brick Slab",
+      "block.trashs_building_blocks.polishedtavertinewall": "Polished Tavertine Wall",
+      "block.trashs_building_blocks.cobblebrickstair": "Cobble Brick Stairs",
+      "block.trashs_building_blocks.limestonebrickwall": "Limestone Brick Ball",
       "itemGroup.tabtrashblocks": "Trash\u0027s Building Blocks",
+      "block.trashs_building_blocks.marble_brick_wall": "Marble Brick Wall",
       "block.trashs_building_blocks.andesitebrick": "Andesite Bricks",
-      "block.trashs_building_blocks.polishedlimestone": "Polished Limestone",
+      "block.trashs_building_blocks.greystonebrickwall": "Greystone Brick Wall",
+      "block.trashs_building_blocks.andesitebrickwall": "Andesite Brick Wall",
+      "block.trashs_building_blocks.tavertinebrickslab": "Tavertine Brick Slab",
       "block.trashs_building_blocks.dioritebrick": "Diorite Bricks",
       "block.trashs_building_blocks.frozen_brick": "Frozen Brick",
-      "block.trashs_building_blocks.depthstonebrick": "Depthstone Bricks"
+      "block.trashs_building_blocks.polishedslatestair": "Polished Slate Stairs",
+      "block.trashs_building_blocks.depthstonebrick": "Depthstone Bricks",
+      "block.trashs_building_blocks.polishedlimestoneslab": "Polished Limestone Slab",
+      "block.trashs_building_blocks.marble_stairs": "Marble Stairs",
+      "block.trashs_building_blocks.granitebrick": "Granitebrick",
+      "block.trashs_building_blocks.depthstonebrickstair": "Depthstone Brick Stairs",
+      "block.trashs_building_blocks.marble": "Marble",
+      "block.trashs_building_blocks.goldbrick": "Golden Bricks",
+      "block.trashs_building_blocks.granitebrickstairs": "Granite Brick Stairs",
+      "block.trashs_building_blocks.polisheddepthstonewall": "Polished Depthstone Wall",
+      "block.trashs_building_blocks.granitebrickslab": "Granite Brick Slab",
+      "block.trashs_building_blocks.depthstone": "Depthstone",
+      "block.trashs_building_blocks.obsidianbrick": "Obsidian Bricks",
+      "block.trashs_building_blocks.slatebricks": "Slate Bricks",
+      "block.trashs_building_blocks.greystonebrickslab": "Greystone Brick Slab",
+      "block.trashs_building_blocks.scalebrickwall": "Scale Brick Wall",
+      "block.trashs_building_blocks.depthstonebrickwall": "Depth Stone Brick Wall",
+      "block.trashs_building_blocks.cobbledbrickwall": "Cobbled Brick Wall",
+      "block.trashs_building_blocks.tavertineslab": "Tavertine Slab",
+      "block.trashs_building_blocks.polished_marble_stairs": "Polished Marble Stairs",
+      "block.trashs_building_blocks.slateslab": "Slate Slab",
+      "block.trashs_building_blocks.polisheddepthstoneslab": "Polished Depthstone Slab"
     }
   },
   "workspaceSettings": {

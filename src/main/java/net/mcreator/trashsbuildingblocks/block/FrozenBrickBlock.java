@@ -23,7 +23,7 @@ public class FrozenBrickBlock extends TrashsBuildingBlocksModElements.ModElement
 	@ObjectHolder("trashs_building_blocks:frozen_brick")
 	public static final Block block = null;
 	public FrozenBrickBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 20);
+		super(instance, 81);
 	}
 
 	@Override

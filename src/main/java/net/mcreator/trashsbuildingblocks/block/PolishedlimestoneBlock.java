@@ -23,7 +23,7 @@ public class PolishedlimestoneBlock extends TrashsBuildingBlocksModElements.ModE
 	@ObjectHolder("trashs_building_blocks:polishedlimestone")
 	public static final Block block = null;
 	public PolishedlimestoneBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 6);
+		super(instance, 15);
 	}
 
 	@Override

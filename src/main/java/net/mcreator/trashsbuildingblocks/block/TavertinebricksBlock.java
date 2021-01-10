@@ -23,7 +23,7 @@ public class TavertinebricksBlock extends TrashsBuildingBlocksModElements.ModEle
 	@ObjectHolder("trashs_building_blocks:tavertinebricks")
 	public static final Block block = null;
 	public TavertinebricksBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 12);
+		super(instance, 52);
 	}
 
 	@Override

@@ -23,7 +23,7 @@ public class PolishedTavertineBlock extends TrashsBuildingBlocksModElements.ModE
 	@ObjectHolder("trashs_building_blocks:polished_tavertine")
 	public static final Block block = null;
 	public PolishedTavertineBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 8);
+		super(instance, 48);
 	}
 
 	@Override

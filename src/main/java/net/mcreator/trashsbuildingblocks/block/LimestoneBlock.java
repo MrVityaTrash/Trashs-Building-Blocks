@@ -38,7 +38,7 @@ public class LimestoneBlock extends TrashsBuildingBlocksModElements.ModElement {
 	@ObjectHolder("trashs_building_blocks:limestone")
 	public static final Block block = null;
 	public LimestoneBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 2);
+		super(instance, 12);
 	}
 
 	@Override

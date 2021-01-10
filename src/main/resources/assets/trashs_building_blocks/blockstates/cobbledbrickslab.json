@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "trashs_building_blocks:block/cobbledbrickslab"
+    },
+    "type=top": {
+      "model": "trashs_building_blocks:block/cobbledbrickslab_top"
+    },
+    "type=double": {
+      "model": "trashs_building_blocks:block/cobbledbrickslab_full"
+    }
+  }
+}

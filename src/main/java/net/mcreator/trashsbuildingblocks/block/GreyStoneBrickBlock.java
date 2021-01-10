@@ -23,7 +23,7 @@ public class GreyStoneBrickBlock extends TrashsBuildingBlocksModElements.ModElem
 	@ObjectHolder("trashs_building_blocks:grey_stone_brick")
 	public static final Block block = null;
 	public GreyStoneBrickBlock(TrashsBuildingBlocksModElements instance) {
-		super(instance, 16);
+		super(instance, 68);
 	}
 
 	@Override

@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "trashs_building_blocks:blocks/polishedslate",
+    "top": "trashs_building_blocks:blocks/polishedslate",
+    "side": "trashs_building_blocks:blocks/polishedslate"
+  }
+}
