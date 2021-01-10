@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "trashs_building_blocks:blocks/tavertine2",
+    "up": "trashs_building_blocks:blocks/tavertine2",
+    "north": "trashs_building_blocks:blocks/tavertine2",
+    "east": "trashs_building_blocks:blocks/tavertine2",
+    "south": "trashs_building_blocks:blocks/tavertine2",
+    "west": "trashs_building_blocks:blocks/tavertine2",
+    "particle": "trashs_building_blocks:blocks/tavertine2"
+  }
+}

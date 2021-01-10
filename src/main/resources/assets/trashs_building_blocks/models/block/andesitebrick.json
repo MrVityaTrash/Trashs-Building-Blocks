@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "trashs_building_blocks:blocks/andestitebricks",
+    "up": "trashs_building_blocks:blocks/andestitebricks",
+    "north": "trashs_building_blocks:blocks/andestitebricks",
+    "east": "trashs_building_blocks:blocks/andestitebricks",
+    "south": "trashs_building_blocks:blocks/andestitebricks",
+    "west": "trashs_building_blocks:blocks/andestitebricks",
+    "particle": "trashs_building_blocks:blocks/andestitebricks"
+  }
+}

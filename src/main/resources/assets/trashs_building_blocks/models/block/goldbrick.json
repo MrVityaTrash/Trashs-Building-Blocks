@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "trashs_building_blocks:blocks/goldbricks",
+    "up": "trashs_building_blocks:blocks/goldbricks",
+    "north": "trashs_building_blocks:blocks/goldbricks",
+    "east": "trashs_building_blocks:blocks/goldbricks",
+    "south": "trashs_building_blocks:blocks/goldbricks",
+    "west": "trashs_building_blocks:blocks/goldbricks",
+    "particle": "trashs_building_blocks:blocks/goldbricks"
+  }
+}

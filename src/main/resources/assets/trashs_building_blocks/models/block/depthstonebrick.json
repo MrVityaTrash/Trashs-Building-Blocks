@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "trashs_building_blocks:blocks/dimmension_stone_bricks",
+    "up": "trashs_building_blocks:blocks/dimmension_stone_bricks",
+    "north": "trashs_building_blocks:blocks/dimmension_stone_bricks",
+    "east": "trashs_building_blocks:blocks/dimmension_stone_bricks",
+    "south": "trashs_building_blocks:blocks/dimmension_stone_bricks",
+    "west": "trashs_building_blocks:blocks/dimmension_stone_bricks",
+    "particle": "trashs_building_blocks:blocks/dimmension_stone_bricks"
+  }
+}

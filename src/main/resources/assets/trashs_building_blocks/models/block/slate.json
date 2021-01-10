@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "trashs_building_blocks:blocks/slate",
+    "up": "trashs_building_blocks:blocks/slate",
+    "north": "trashs_building_blocks:blocks/slate",
+    "east": "trashs_building_blocks:blocks/slate",
+    "south": "trashs_building_blocks:blocks/slate",
+    "west": "trashs_building_blocks:blocks/slate",
+    "particle": "trashs_building_blocks:blocks/slate"
+  }
+}

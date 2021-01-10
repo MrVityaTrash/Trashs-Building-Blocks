@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "trashs_building_blocks:blocks/scaledbrick",
+    "up": "trashs_building_blocks:blocks/scaledbrick",
+    "north": "trashs_building_blocks:blocks/scaledbrick",
+    "east": "trashs_building_blocks:blocks/scaledbrick",
+    "south": "trashs_building_blocks:blocks/scaledbrick",
+    "west": "trashs_building_blocks:blocks/scaledbrick",
+    "particle": "trashs_building_blocks:blocks/scaledbrick"
+  }
+}

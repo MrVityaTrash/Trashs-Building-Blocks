@@ -1,0 +1,21 @@
+modLoader="javafml"
+loaderVersion="[28,)"
+
+[[mods]]
+modId="trashs_building_blocks"
+version="1.0.0"
+displayName="Trash's Building Blocks"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="seant, MCreator"
+
+[[dependencies.trashs_building_blocks]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.14.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

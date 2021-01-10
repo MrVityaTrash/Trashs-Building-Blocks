@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "trashs_building_blocks:blocks/greybricks",
+    "up": "trashs_building_blocks:blocks/greybricks",
+    "north": "trashs_building_blocks:blocks/greybricks",
+    "east": "trashs_building_blocks:blocks/greybricks",
+    "south": "trashs_building_blocks:blocks/greybricks",
+    "west": "trashs_building_blocks:blocks/greybricks",
+    "particle": "trashs_building_blocks:blocks/greybricks"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "trashs_building_blocks:blocks/polisheddepthstone",
+    "up": "trashs_building_blocks:blocks/polisheddepthstone",
+    "north": "trashs_building_blocks:blocks/polisheddepthstone",
+    "east": "trashs_building_blocks:blocks/polisheddepthstone",
+    "south": "trashs_building_blocks:blocks/polisheddepthstone",
+    "west": "trashs_building_blocks:blocks/polisheddepthstone",
+    "particle": "trashs_building_blocks:blocks/polisheddepthstone"
+  }
+}
