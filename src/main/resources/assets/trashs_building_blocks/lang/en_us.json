@@ -1,5 +1,5 @@
 {
-  "block.trashs_building_blocks.scalebrick": "Scaled Stone Bricks",
+  "block.trashs_building_blocks.scalebrick": "Scale Bricks",
   "block.trashs_building_blocks.polishedslateslab": "Polished Slate Slab",
   "block.trashs_building_blocks.limestonebrick": "Limestone Brick",
   "block.trashs_building_blocks.limestoneslab": "Limestone Slab",
@@ -21,8 +21,8 @@
   "block.trashs_building_blocks.cobbledbrick": "Cobbled Bricks",
   "block.trashs_building_blocks.polished_tavertine": "Polished Tavertine",
   "block.trashs_building_blocks.grey_stone_brick": "Grey Stone Bricks",
-  "block.trashs_building_blocks.slate": "Slate",
   "block.trashs_building_blocks.polisheddepthstone": "Polished Depthstone",
+  "block.trashs_building_blocks.slate": "Slate",
   "block.trashs_building_blocks.polishedtavertineslab": "Polished Tavertine Slab",
   "block.trashs_building_blocks.tavertine": "Tavertine",
   "block.trashs_building_blocks.marble_brick_stairs": "Marble Brick Stairs",
@@ -31,7 +31,7 @@
   "block.trashs_building_blocks.slatebrickstair": "Slate Brick Stairs",
   "block.trashs_building_blocks.dioritebrickstair": "Diorite Brick Stairs",
   "block.trashs_building_blocks.limestonebrickslab": "Limestone Brick Slab",
-  "block.trashs_building_blocks.cobblebrickstair": "Cobble Brick Stairs",
+  "block.trashs_building_blocks.cobblebrickstair": "Cobbled Brick Stairs",
   "block.trashs_building_blocks.komatiite": "Komatiite",
   "itemGroup.tabtrashblocks": "Trash\u0027s Building Blocks",
   "block.trashs_building_blocks.andesitebrick": "Andesite Bricks",
@@ -39,8 +39,8 @@
   "block.trashs_building_blocks.polishedslatestair": "Polished Slate Stairs",
   "block.trashs_building_blocks.depthstonebrickstair": "Depthstone Brick Stairs",
   "block.trashs_building_blocks.goldbrick": "Golden Bricks",
-  "block.trashs_building_blocks.polisheddepthstonewall": "Polished Depthstone Wall",
   "block.trashs_building_blocks.komaliite_brick_slab": "Komaliite Brick Slab",
+  "block.trashs_building_blocks.polisheddepthstonewall": "Polished Depthstone Wall",
   "block.trashs_building_blocks.depthstone": "Depthstone",
   "block.trashs_building_blocks.obsidianbrick": "Obsidian Bricks",
   "block.trashs_building_blocks.slatebricks": "Slate Bricks",
@@ -80,7 +80,7 @@
   "block.trashs_building_blocks.greystonebrickstair": "Greystone Brick Stairs",
   "block.trashs_building_blocks.polishedtavertinewall": "Polished Tavertine Wall",
   "block.trashs_building_blocks.komaliite_bricks": "Komaliite Bricks",
-  "block.trashs_building_blocks.limestonebrickwall": "Limestone Brick Ball",
+  "block.trashs_building_blocks.limestonebrickwall": "Limestone Brick Wall",
   "block.trashs_building_blocks.marble_brick_wall": "Marble Brick Wall",
   "block.trashs_building_blocks.greystonebrickwall": "Greystone Brick Wall",
   "block.trashs_building_blocks.andesitebrickwall": "Andesite Brick Wall",
@@ -99,5 +99,5 @@
   "block.trashs_building_blocks.polished_komaliite_wall": "Polished Komaliite Wall",
   "block.trashs_building_blocks.slateslab": "Slate Slab",
   "block.trashs_building_blocks.polisheddepthstoneslab": "Polished Depthstone Slab",
-  "block.trashs_building_blocks.komaliite_wall": "Komaliite Wall"
+  "block.trashs_building_blocks.komaliite_wall": "Komatiite Wall"
 }

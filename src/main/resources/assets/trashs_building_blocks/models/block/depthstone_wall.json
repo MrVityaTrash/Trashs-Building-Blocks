@@ -1,7 +1,7 @@
 {
   "parent": "block/template_wall_side",
   "textures": {
-    "wall": "trashs_building_blocks:blocks/depthstone",
-    "particle": "trashs_building_blocks:blocks/depthstone"
+    "wall": "trashs_building_blocks:blocks/4depthstone",
+    "particle": "trashs_building_blocks:blocks/4depthstone"
   }
 }

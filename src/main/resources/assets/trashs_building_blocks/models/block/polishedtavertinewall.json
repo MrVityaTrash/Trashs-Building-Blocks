@@ -1,12 +1,7 @@
 {
-  "parent": "block/cube",
+  "parent": "block/template_wall_side",
   "textures": {
-    "down": "trashs_building_blocks:blocks/polishedtavertine",
-    "up": "trashs_building_blocks:blocks/polishedtavertine",
-    "north": "trashs_building_blocks:blocks/polishedtavertine",
-    "east": "trashs_building_blocks:blocks/polishedtavertine",
-    "south": "trashs_building_blocks:blocks/polishedtavertine",
-    "west": "trashs_building_blocks:blocks/polishedtavertine",
+    "wall": "trashs_building_blocks:blocks/polishedtavertine",
     "particle": "trashs_building_blocks:blocks/polishedtavertine"
   }
 }

@@ -1,12 +1,12 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "trashs_building_blocks:blocks/marble",
-    "up": "trashs_building_blocks:blocks/marble",
-    "north": "trashs_building_blocks:blocks/marble",
-    "east": "trashs_building_blocks:blocks/marble",
-    "south": "trashs_building_blocks:blocks/marble",
-    "west": "trashs_building_blocks:blocks/marble",
-    "particle": "trashs_building_blocks:blocks/marble"
+    "down": "trashs_building_blocks:blocks/marble2",
+    "up": "trashs_building_blocks:blocks/marble2",
+    "north": "trashs_building_blocks:blocks/marble2",
+    "east": "trashs_building_blocks:blocks/marble2",
+    "south": "trashs_building_blocks:blocks/marble2",
+    "west": "trashs_building_blocks:blocks/marble2",
+    "particle": "trashs_building_blocks:blocks/marble2"
   }
 }

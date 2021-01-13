@@ -1,7 +1,51 @@
 {
-  "variants": {
-    "": {
-      "model": "trashs_building_blocks:block/granitebrickwall"
+  "multipart": [
+    {
+      "when": {
+        "up": "true"
+      },
+      "apply": {
+        "model": "trashs_building_blocks:block/granitebrickwall_post"
+      }
+    },
+    {
+      "when": {
+        "north": "true"
+      },
+      "apply": {
+        "model": "trashs_building_blocks:block/granitebrickwall",
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "south": "true"
+      },
+      "apply": {
+        "model": "trashs_building_blocks:block/granitebrickwall",
+        "y": 180,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "west": "true"
+      },
+      "apply": {
+        "model": "trashs_building_blocks:block/granitebrickwall",
+        "y": 270,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "east": "true"
+      },
+      "apply": {
+        "model": "trashs_building_blocks:block/granitebrickwall",
+        "y": 90,
+        "uvlock": true
+      }
     }
-  }
+  ]
 }

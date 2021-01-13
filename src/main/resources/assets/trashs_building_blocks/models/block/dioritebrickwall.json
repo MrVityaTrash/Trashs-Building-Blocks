@@ -1,12 +1,7 @@
 {
-  "parent": "block/cube",
+  "parent": "block/template_wall_side",
   "textures": {
-    "down": "trashs_building_blocks:blocks/dioritebrick",
-    "up": "trashs_building_blocks:blocks/dioritebrick",
-    "north": "trashs_building_blocks:blocks/dioritebrick",
-    "east": "trashs_building_blocks:blocks/dioritebrick",
-    "south": "trashs_building_blocks:blocks/dioritebrick",
-    "west": "trashs_building_blocks:blocks/dioritebrick",
+    "wall": "trashs_building_blocks:blocks/dioritebrick",
     "particle": "trashs_building_blocks:blocks/dioritebrick"
   }
 }

@@ -1,0 +1,22 @@
+{
+  "group": "trashs_building_blocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "trashs_building_blocks:polisheddepthstone"
+    },
+    "1": {
+      "item": "trashs_building_blocks:polisheddepthstone"
+    },
+    "2": {
+      "item": "trashs_building_blocks:polisheddepthstone"
+    }
+  },
+  "result": {
+    "item": "trashs_building_blocks:polisheddepthstonewall",
+    "count": 6
+  }
+}

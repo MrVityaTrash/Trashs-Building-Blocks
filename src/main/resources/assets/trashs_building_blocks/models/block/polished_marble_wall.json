@@ -1,7 +1,7 @@
 {
-  "parent": "block/fence_side",
+  "parent": "block/template_wall_side",
   "textures": {
-    "texture": "trashs_building_blocks:blocks/polishedmarble",
+    "wall": "trashs_building_blocks:blocks/polishedmarble",
     "particle": "trashs_building_blocks:blocks/polishedmarble"
   }
 }

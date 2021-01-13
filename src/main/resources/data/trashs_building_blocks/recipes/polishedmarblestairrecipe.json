@@ -1,0 +1,33 @@
+{
+  "group": "trashs_building_blocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "trashs_building_blocks:polished_marble"
+    },
+    "3": {
+      "item": "trashs_building_blocks:polished_marble"
+    },
+    "4": {
+      "item": "trashs_building_blocks:polished_marble"
+    },
+    "6": {
+      "item": "trashs_building_blocks:polished_marble"
+    },
+    "7": {
+      "item": "trashs_building_blocks:polished_marble"
+    },
+    "8": {
+      "item": "trashs_building_blocks:polished_marble"
+    }
+  },
+  "result": {
+    "item": "trashs_building_blocks:polished_marble_stairs",
+    "count": 4
+  }
+}

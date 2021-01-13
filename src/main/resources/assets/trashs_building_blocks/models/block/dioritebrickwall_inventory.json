@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "trashs_building_blocks:blocks/dioritebrick",
+    "particle": "trashs_building_blocks:blocks/dioritebrick"
+  }
+}

@@ -1,8 +1,8 @@
 {
   "parent": "block/slab",
   "textures": {
-    "bottom": "trashs_building_blocks:blocks/depthstone",
-    "top": "trashs_building_blocks:blocks/depthstone",
-    "side": "trashs_building_blocks:blocks/depthstone"
+    "bottom": "trashs_building_blocks:blocks/4depthstone",
+    "top": "trashs_building_blocks:blocks/4depthstone",
+    "side": "trashs_building_blocks:blocks/4depthstone"
   }
 }

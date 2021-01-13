@@ -1,0 +1,22 @@
+{
+  "group": "trashs_building_blocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "trashs_building_blocks:polished_slate"
+    },
+    "1": {
+      "item": "trashs_building_blocks:polished_slate"
+    },
+    "2": {
+      "item": "trashs_building_blocks:polished_slate"
+    }
+  },
+  "result": {
+    "item": "trashs_building_blocks:polishedslateslab",
+    "count": 6
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "group": "trashs_building_blocks",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "trashs_building_blocks:komaliite_bricks"
+  },
+  "result": "trashs_building_blocks:komaliite_brick_wall"
+}

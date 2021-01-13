@@ -1,6 +1,9 @@
 {
   "multipart": [
     {
+      "when": {
+        "up": "true"
+      },
       "apply": {
         "model": "trashs_building_blocks:block/polished_marble_wall_post"
       }

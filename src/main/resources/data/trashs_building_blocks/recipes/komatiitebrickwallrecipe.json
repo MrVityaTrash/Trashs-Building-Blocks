@@ -1,0 +1,32 @@
+{
+  "group": "trashs_building_blocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "trashs_building_blocks:komaliite_bricks"
+    },
+    "1": {
+      "item": "trashs_building_blocks:komaliite_bricks"
+    },
+    "2": {
+      "item": "trashs_building_blocks:komaliite_bricks"
+    },
+    "3": {
+      "item": "trashs_building_blocks:komaliite_bricks"
+    },
+    "4": {
+      "item": "trashs_building_blocks:komaliite_bricks"
+    },
+    "5": {
+      "item": "trashs_building_blocks:komaliite_bricks"
+    }
+  },
+  "result": {
+    "item": "trashs_building_blocks:komaliite_brick_wall",
+    "count": 6
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "group": "trashs_building_blocks",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "trashs_building_blocks:polished_marble"
+  },
+  "result": "trashs_building_blocks:polished_marble_slab"
+}

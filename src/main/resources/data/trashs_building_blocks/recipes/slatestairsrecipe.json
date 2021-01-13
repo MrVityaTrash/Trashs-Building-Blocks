@@ -1,0 +1,33 @@
+{
+  "group": "trashs_building_blocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "trashs_building_blocks:slate"
+    },
+    "3": {
+      "item": "trashs_building_blocks:slate"
+    },
+    "4": {
+      "item": "trashs_building_blocks:slate"
+    },
+    "6": {
+      "item": "trashs_building_blocks:slate"
+    },
+    "7": {
+      "item": "trashs_building_blocks:slate"
+    },
+    "8": {
+      "item": "trashs_building_blocks:slate"
+    }
+  },
+  "result": {
+    "item": "trashs_building_blocks:slatestair",
+    "count": 4
+  }
+}

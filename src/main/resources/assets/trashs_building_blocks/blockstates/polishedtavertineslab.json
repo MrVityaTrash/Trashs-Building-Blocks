@@ -1,7 +1,13 @@
 {
   "variants": {
-    "": {
+    "type=bottom": {
       "model": "trashs_building_blocks:block/polishedtavertineslab"
+    },
+    "type=top": {
+      "model": "trashs_building_blocks:block/polishedtavertineslab_top"
+    },
+    "type=double": {
+      "model": "trashs_building_blocks:block/polishedtavertineslab_full"
     }
   }
 }

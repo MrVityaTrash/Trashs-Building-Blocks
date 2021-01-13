@@ -1,0 +1,32 @@
+{
+  "group": "trashs_building_blocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "trashs_building_blocks:limestone"
+    },
+    "1": {
+      "item": "trashs_building_blocks:limestone"
+    },
+    "2": {
+      "item": "trashs_building_blocks:limestone"
+    },
+    "3": {
+      "item": "trashs_building_blocks:limestone"
+    },
+    "4": {
+      "item": "trashs_building_blocks:limestone"
+    },
+    "5": {
+      "item": "trashs_building_blocks:limestone"
+    }
+  },
+  "result": {
+    "item": "trashs_building_blocks:limestone_wall",
+    "count": 6
+  }
+}

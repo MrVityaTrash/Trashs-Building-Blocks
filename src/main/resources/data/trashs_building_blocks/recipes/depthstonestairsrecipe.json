@@ -1,0 +1,33 @@
+{
+  "group": "trashs_building_blocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "trashs_building_blocks:depthstone"
+    },
+    "3": {
+      "item": "trashs_building_blocks:depthstone"
+    },
+    "4": {
+      "item": "trashs_building_blocks:depthstone"
+    },
+    "6": {
+      "item": "trashs_building_blocks:depthstone"
+    },
+    "7": {
+      "item": "trashs_building_blocks:depthstone"
+    },
+    "8": {
+      "item": "trashs_building_blocks:depthstone"
+    }
+  },
+  "result": {
+    "item": "trashs_building_blocks:depthstonestair",
+    "count": 4
+  }
+}

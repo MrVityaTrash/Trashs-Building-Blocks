@@ -1,7 +1,7 @@
 {
-  "parent": "block/fence_inventory",
+  "parent": "block/wall_inventory",
   "textures": {
-    "texture": "trashs_building_blocks:blocks/polishedmarble",
+    "wall": "trashs_building_blocks:blocks/polishedmarble",
     "particle": "trashs_building_blocks:blocks/polishedmarble"
   }
 }

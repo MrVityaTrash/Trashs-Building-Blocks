@@ -15,7 +15,7 @@
     "displayFluidOverlay": false,
     "itemTexture": "",
     "particleTexture": "",
-    "blockBase": "Fence",
+    "blockBase": "Wall",
     "hasTransparency": true,
     "connectedSides": false,
     "transparencyType": "SOLID",

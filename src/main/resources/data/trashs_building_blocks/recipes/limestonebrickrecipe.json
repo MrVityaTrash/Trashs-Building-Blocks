@@ -1,0 +1,26 @@
+{
+  "group": "trashs_building_blocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "trashs_building_blocks:polishedlimestone"
+    },
+    "1": {
+      "item": "trashs_building_blocks:polishedlimestone"
+    },
+    "2": {
+      "item": "trashs_building_blocks:polishedlimestone"
+    },
+    "3": {
+      "item": "trashs_building_blocks:polishedlimestone"
+    }
+  },
+  "result": {
+    "item": "trashs_building_blocks:limestonebrick",
+    "count": 4
+  }
+}

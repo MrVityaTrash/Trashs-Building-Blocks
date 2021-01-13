@@ -1,12 +1,7 @@
 {
-  "parent": "block/cube",
+  "parent": "block/template_wall_side",
   "textures": {
-    "down": "trashs_building_blocks:blocks/granitebrick",
-    "up": "trashs_building_blocks:blocks/granitebrick",
-    "north": "trashs_building_blocks:blocks/granitebrick",
-    "east": "trashs_building_blocks:blocks/granitebrick",
-    "south": "trashs_building_blocks:blocks/granitebrick",
-    "west": "trashs_building_blocks:blocks/granitebrick",
+    "wall": "trashs_building_blocks:blocks/granitebrick",
     "particle": "trashs_building_blocks:blocks/granitebrick"
   }
 }

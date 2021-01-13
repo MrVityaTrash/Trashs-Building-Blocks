@@ -1,12 +1,8 @@
 {
-  "parent": "block/cube",
+  "parent": "block/slab",
   "textures": {
-    "down": "trashs_building_blocks:blocks/limestone",
-    "up": "trashs_building_blocks:blocks/limestone",
-    "north": "trashs_building_blocks:blocks/limestone",
-    "east": "trashs_building_blocks:blocks/limestone",
-    "south": "trashs_building_blocks:blocks/limestone",
-    "west": "trashs_building_blocks:blocks/limestone",
-    "particle": "trashs_building_blocks:blocks/limestone"
+    "bottom": "trashs_building_blocks:blocks/limestone",
+    "top": "trashs_building_blocks:blocks/limestone",
+    "side": "trashs_building_blocks:blocks/limestone"
   }
 }

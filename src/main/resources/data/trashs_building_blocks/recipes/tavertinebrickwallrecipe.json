@@ -1,0 +1,32 @@
+{
+  "group": "trashs_building_blocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "trashs_building_blocks:tavertinebricks"
+    },
+    "1": {
+      "item": "trashs_building_blocks:tavertinebricks"
+    },
+    "2": {
+      "item": "trashs_building_blocks:tavertinebricks"
+    },
+    "3": {
+      "item": "trashs_building_blocks:tavertinebricks"
+    },
+    "4": {
+      "item": "trashs_building_blocks:tavertinebricks"
+    },
+    "5": {
+      "item": "trashs_building_blocks:tavertinebricks"
+    }
+  },
+  "result": {
+    "item": "trashs_building_blocks:tavertinebrickwall",
+    "count": 6
+  }
+}

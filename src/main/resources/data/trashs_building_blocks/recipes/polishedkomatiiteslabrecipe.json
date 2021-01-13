@@ -1,0 +1,32 @@
+{
+  "group": "trashs_building_blocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "trashs_building_blocks:polished_komaliite"
+    },
+    "1": {
+      "item": "trashs_building_blocks:polished_komaliite"
+    },
+    "2": {
+      "item": "trashs_building_blocks:polished_komaliite"
+    },
+    "3": {
+      "item": "trashs_building_blocks:polished_komaliite"
+    },
+    "4": {
+      "item": "trashs_building_blocks:polished_komaliite"
+    },
+    "5": {
+      "item": "trashs_building_blocks:polished_komaliite"
+    }
+  },
+  "result": {
+    "item": "trashs_building_blocks:polished_komalite_slab",
+    "count": 6
+  }
+}

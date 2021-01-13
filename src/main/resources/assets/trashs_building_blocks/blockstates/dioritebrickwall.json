@@ -1,7 +1,51 @@
 {
-  "variants": {
-    "": {
-      "model": "trashs_building_blocks:block/dioritebrickwall"
+  "multipart": [
+    {
+      "when": {
+        "up": "true"
+      },
+      "apply": {
+        "model": "trashs_building_blocks:block/dioritebrickwall_post"
+      }
+    },
+    {
+      "when": {
+        "north": "true"
+      },
+      "apply": {
+        "model": "trashs_building_blocks:block/dioritebrickwall",
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "south": "true"
+      },
+      "apply": {
+        "model": "trashs_building_blocks:block/dioritebrickwall",
+        "y": 180,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "west": "true"
+      },
+      "apply": {
+        "model": "trashs_building_blocks:block/dioritebrickwall",
+        "y": 270,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "east": "true"
+      },
+      "apply": {
+        "model": "trashs_building_blocks:block/dioritebrickwall",
+        "y": 90,
+        "uvlock": true
+      }
     }
-  }
+  ]
 }
