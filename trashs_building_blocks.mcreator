@@ -2585,24 +2585,6 @@
       "registry_name": "cat"
     },
     {
-      "name": "TheDhe",
-      "type": "painting",
-      "sortid": 135,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "the_dhe"
-    },
-    {
-      "name": "TheVe",
-      "type": "painting",
-      "sortid": 136,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "the_ve"
-    },
-    {
       "name": "Sun",
       "type": "painting",
       "sortid": 137,
