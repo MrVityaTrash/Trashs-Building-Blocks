@@ -2601,6 +2601,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "the_ve"
+    },
+    {
+      "name": "Sun",
+      "type": "painting",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sun"
+    },
+    {
+      "name": "Fullmoon",
+      "type": "painting",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fullmoon"
     }
   ],
   "variable_elements": [],
